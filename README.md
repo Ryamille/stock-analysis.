@@ -15,9 +15,9 @@ By editing the original code, I was able to get the code to run in an estimated 
 ![](resources/2018_non_refactored.png)
 
 ### New Runtimes
-![](resources/2017_Refactored.png)
+![](resources/VBA_Challenge_2017.png)
 
-![](resources/Refactored_2018.png)
+![](resources/VBA_Challenge_2018.png)
 
 ## Advantages and Disadvantages of Refactoring Code
 ### Advantages
