@@ -8,6 +8,16 @@ The purpose of this challenge was to refactor the original module and create one
 ## Results
 Based on the given data, there is almost a night and day difference between the two results. The data shows that only *TERP* stock had a negative percentage value in 2017 whereas *ENPH* and *RUN* are the only stocks with a positive percentage value in 2018.
 By editing the original code, I was able to get the code to run in an estimated 0.2 seconds which is about 0.6 seconds faster than my original code processed. There were also some instances where I would get faster results.
+### Old Runtimes
+
+![](resources/2017_non_refactored.png)
+
+![](resources/2018_non_refactored.png)
+
+### New Runtimes
+![](resources/2017_Refactored.png)
+
+![](resources/Refactored_2018.png)
 
 ## Advantages and Disadvantages of Refactoring Code
 ### Advantages
@@ -16,3 +26,5 @@ Previously, I had three modules doing the same thing this new singular module do
 
 ### Disadvantages
 The only downside in refactoring a code would be the human error involved in rewriting the code. I noticed that when I reapplied the same formula again, I received numerous errors that would not allow me to run my new code. The only solution I was able to find was to add (12) in the arrays section and (i) for my loops. This was somehow not needed in my original code in order to achieve the same results.
+
+![](resources/Original_Code.png)                                ![](resources/New_code.png)
